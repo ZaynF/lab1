@@ -1,0 +1,11 @@
+Script started on 2016年03月08日 (週二) 20時30分44秒
+]0;F74044096@2015cpp: ~F74044096@2015cpp:~$ whoami;pwd
+F74044096
+/home/F74044096
+]0;F74044096@2015cpp: ~F74044096@2015cpp:~$ git config -l
+]0;F74044096@2015cpp: ~F74044096@2015cpp:~$ git clone https://github.com/ZaynF/lab1.g it
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74044096@2015cpp: ~F74044096@2015cpp:~$ exit
+
+Script done on 2016年03月08日 (週二) 20時32分39秒
